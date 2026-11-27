@@ -1,0 +1,36 @@
+﻿grade,state,density_g_cm3,conductivity_MS_m,thermal_W_mK,magnetic_binary_assumed,source
+A1050A,O/H,2.71,34.51,229.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A2024,T3,2.78,17.4,121.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A2024,T8,2.78,22.33,151.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A5052,O/H,2.68,20.299999999999997,138.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A5083,O/H,2.66,16.529999999999998,117.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6061,O,2.7,26.97,180.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6061,T4,2.7,23.2,155.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6061,T6,2.7,24.939999999999998,166.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6063,O,2.7,33.349999999999994,218.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6063,T4,2.7,28.709999999999997,197.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6063,T5,2.7,32.19,209.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A6063,T6,2.7,30.159999999999997,201.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A7075,O,2.81,26.389999999999997,175.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A7075,T6,2.81,19.139999999999997,134.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A7075,T7,2.81,22.91,155.0,0,https://www.alumeco.com/aluminium/data/physical-properties/ | https://www.easaluminium.eu/katalog/hesaplama/
+A2017,unspecified,2.79,20.0,130.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+A7050,unspecified,2.83,19.0,130.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+ADC12,unspecified,2.74,13.0,96.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+S45C,unspecified,7.87,6.0,45.0,1,https://jp.meviy.misumi-ec.com/help/ja/technical_info/tup_shape-material/33691/
+S50C相当,unspecified,7.8,6.0,44.0,1,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+SCM440,unspecified,7.85,6.0,42.7,1,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+SKD11,unspecified,7.8,4.0,20.0,1,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+NAK55相当,unspecified,7.8,5.0,30.0,1,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+C1020,unspecified,8.94,58.0,391.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+C1100,unspecified,8.94,58.0,391.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+C2801,unspecified,8.39,16.2,159.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+C3604低鉛,unspecified,8.43,15.1,117.0,0,https://jp.meviy.misumi-ec.com/help/ja/technical_info/mpb_shape-material/33685/
+SUS304,reference,7.9,1.36986301369863,15.0,0,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS316,reference,8.0,1.3333333333333333,15.0,0,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS430,reference,7.7,1.4285714285714286,25.0,1,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS410,reference,7.7,1.6666666666666667,30.0,1,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS630,reference,7.8,1.4084507042253522,16.0,1,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+Ti Grade 2,reference,4.51,1.8181818181818181,17.16,0,https://www.nbk1560.com/en-US/resources/specialscrew/article/technical-28-titanium-tokusei/?SelectedLanguage=en-US
+Ti Grade 5,reference,4.43,0.5882352941176471,7.5,0,https://www.nbk1560.com/en-US/resources/specialscrew/article/technical-28-titanium-tokusei/?SelectedLanguage=en-US
+C51000,reference,8.86,8.7,71.0,0,https://www.copper.org/publications/pub_list/pdf/a1360.pdf
