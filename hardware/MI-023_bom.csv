@@ -1,0 +1,12 @@
+item,cost_JPY,basis,notes
+controller,1000,estimate,USB MCU board
+adc,600,retailer,https://akizukidenshi.com/catalog/g/g108018/
+temperature_and_heater,600,estimate,two sensors heater switch thermal cutoff
+probe_and_current,1000,estimate,four-wire contacts reference shunt current limiting polarity switch bias and protection
+wiring_fixture,700,estimate,wire connector insulation enclosure allowances
+hx711,350,retailer,https://akizukidenshi.com/catalog/g/g112370/
+loadcell,900,estimate,load cell
+density_fixture,400,estimate,container hanger reference weights allowance
+dds,1520,retailer,AD9833 IC https://akizukidenshi.com/catalog/r/roscic_snm/
+coil_frontend,1800,estimate,coil clock PCB driver synchronous demodulation and reference resistor
+reference_coupons,1000,estimate,uncertified screening coupons only
