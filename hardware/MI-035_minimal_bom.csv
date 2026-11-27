@@ -1,0 +1,10 @@
+stage,item,cost_JPY,basis,source_or_assumption
+S0,phone PC scale and container,0,reuse,already owned assumed
+S0,small magnet,110,allowance,not verified retail
+S1,XIAO ESP32C3,1080,retailer,https://akizukidenshi.com/catalog/g/g117454/
+S1,MCP3425 ADC module,600,retailer,https://akizukidenshi.com/catalog/g/g108018/
+S1,current limited source shunt and polarity switching,400,allowance,reuse supply and tools; feasibility not verified
+S1,contacts and wiring,300,allowance,reuse fixture; feasibility not verified
+S2,HX711 module,350,retailer,https://akizukidenshi.com/catalog/g/g112370/
+S2,load cell,900,prior allowance,not verified retail
+S2,weighing fixture,400,prior allowance,not verified retail
