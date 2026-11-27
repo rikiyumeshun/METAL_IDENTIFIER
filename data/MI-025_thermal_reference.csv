@@ -1,0 +1,7 @@
+grade,density_kg_m3,k_W_mK,cp_J_kg_K,source,notes
+A6061-T6,2700,167,896,https://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6061T6,nominal
+A5052-H32,2680,138,880,https://asm.matweb.com/search/specificmaterial.asp?bassnum=ma5052h32,cp estimated by source
+AISI1045_proxy,7870,49.8,486,https://doi.org/10.3390/met13101750,density from v0.1 S45C; not certified JIS equivalent
+SUS304_proxy,7900,15,500,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/,EN/AISI proxy
+SUS316_proxy,8000,15,500,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/,EN/AISI proxy
+Ti Grade 2,4510,16,520,https://www.metalcor.de/en/datenblatt/122/ ; https://www.matthey.ch/fileadmin/user_upload/downloads/fichetechnique/EN/Titane-Gr2M_v22E.pdf,nominal
