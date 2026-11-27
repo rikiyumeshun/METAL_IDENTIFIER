@@ -1,0 +1,7 @@
+stage,description,prior_partial_BOM_JPY_reference,registered_features,candidate_signal_features,information_families
+S1,DC + thermopower + TCR,3900,22,19,3
+S2,Add hydrostatic weighing,5550,28,25,4
+S3,Add thermal experiments,,47,42,6
+S4,Add inductive measurement,8870,67,61,7
+S5,Add magnetic force experiments,,87,79,8
+S6,All research modalities,,142,130,14
