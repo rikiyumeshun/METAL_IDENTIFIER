@@ -1,0 +1,8 @@
+grade,density_kg_m3,E_GPa,conductivity_MS_m,source_E_density,conductivity_source
+A5052-H32,2680,70.3,20.3,https://asm.matweb.com/search/specificmaterial.asp?bassnum=ma5052h32,v0.1 nominal O/H proxy
+A6061-T6,2700,68.9,24.94,https://engix.online/materials,v0.1 nominal
+A7075-T6,2810,71.7,19.14,https://engix.online/materials,v0.1 nominal
+SUS304_proxy,7900,200,1.37,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/,v0.1 proxy
+SUS316_proxy,8000,200,1.33,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/,v0.1 proxy
+C1100_proxy,8910,117.2,58,https://alloys.copper.org/alloy/C11000,v0.1 nominal
+Ti Grade 5,4430,113.8,.59,https://manufacturingprocesses.org/charts/material-properties,v0.1 nominal
