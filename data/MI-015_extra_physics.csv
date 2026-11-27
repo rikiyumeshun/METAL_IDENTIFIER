@@ -1,0 +1,10 @@
+grade,reference_condition,young_GPa,cte_um_m_K,cp_J_kg_K,source
+A1050A,EN AW nominal,69,23.5,,https://www.alumeco.com/aluminium/data/physical-properties/
+A2024,EN AW nominal,73,23.1,,https://www.alumeco.com/aluminium/data/physical-properties/
+A5052,EN AW nominal,70,23.7,,https://www.alumeco.com/aluminium/data/physical-properties/
+A5083,EN AW nominal,71,23.8,,https://www.alumeco.com/aluminium/data/physical-properties/
+SUS304,AISI/EN proxy,200,16,500,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS316,AISI/EN proxy,200,16,500,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS410,AISI/EN proxy,215,10.5,460,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS430,AISI/EN proxy,220,10,460,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
+SUS630,AISI/EN proxy,200,10.9,500,https://bssa.org.uk/bssa_articles/ambient-temperature-physical-properties-of-stainless-steels-to-bs-en-10088-1/
