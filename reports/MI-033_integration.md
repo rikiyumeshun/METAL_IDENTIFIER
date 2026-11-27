@@ -1,0 +1,12 @@
+# MI-033 — Integrated feature registry and prototype staging
+152 registered candidate features in 17 groups: 130 candidate signals and 22 quality/context entries; 15 coarse physical information families including nuisance. Registry read-back validated: 152 unique IDs, 9 fields each. Counts are a research inventory, not independent information dimensions or verified measurement capabilities. Status is group-level maturity, not evidence of validation of each feature. Imaginary eddy response, torsion, damping, Seebeck curvature, assays and contact thermal models remain unverified.
+## Hardware staging
+- S1 DC + thermopower + TCR: 22 inventory features, 19 candidate signals, 3 coarse families; prior partial BOM 3900 JPY
+- S2 Add hydrostatic weighing: 28 inventory features, 25 candidate signals, 4 coarse families; prior partial BOM 5550 JPY
+- S3 Add thermal experiments: 47 inventory features, 42 candidate signals, 6 coarse families; new cost not yet estimated
+- S4 Add inductive measurement: 67 inventory features, 61 candidate signals, 7 coarse families; prior partial BOM 8870 JPY
+- S5 Add magnetic force experiments: 87 inventory features, 79 candidate signals, 8 coarse families; new cost not yet estimated
+- S6 All research modalities: 142 inventory features, 130 candidate signals, 14 coarse families; new cost not yet estimated
+MI-023 BOM only covers basic parts allowances. S3 requires heater and two sensors but may need new fixtures and thermal calibration; S4's 8870 JPY is the prior partial DC+density+coil estimate, not a complete quote covering S3 or every listed feature. S5 needs characterized field, force fixtures, motion and shielding; separate yoke and HF electronics for hysteresis/Barkhausen. S6 adds optics, acoustics and lab-only electrochemistry/assays. No budget guarantee or empirical accuracy claim.
+## Minimum experiment design
+Start with certified exact copper grades C10100/C11000 and documented Al grades A6061/A5052; three independent lots per grade and two coupons per lot as an exploratory pilot. Randomize order, repeat with repositioning, record calibration before and after each batch. Train/test separation by lot. Baseline density/conductivity; add thermopower and magnetic susceptibility. Preserve raw signals, calibration, conditions and failure states. No exact grade assurance from overlapping properties. Public repository; no proprietary specimen data.
