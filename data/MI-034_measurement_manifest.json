@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1",
+  "purpose": "pilot raw measurement manifest; not measured data",
+  "required": [
+    "specimen_id",
+    "lot_id",
+    "declared_grade",
+    "grade_evidence",
+    "temper",
+    "measurement_id",
+    "feature_id",
+    "timestamp_utc",
+    "instrument_id",
+    "calibration_id",
+    "unit",
+    "status"
+  ],
+  "fields": {
+    "specimen_id": "anonymous ID",
+    "lot_id": "independent material lot",
+    "declared_grade": "exact standard and grade",
+    "grade_evidence": "certificate or supplier label; distinguish",
+    "temper": "known or unknown",
+    "measurement_id": "unique reading ID",
+    "feature_id": "MI-033 Fxxx",
+    "timestamp_utc": "ISO8601",
+    "instrument_id": "device and revision",
+    "calibration_id": "link to reference readings",
+    "unit": "SI or explicit",
+    "status": [
+      "ok",
+      "invalid",
+      "not_applicable",
+      "not_measured"
+    ],
+    "value": "numeric only when valid",
+    "raw_signal_path": "relative path",
+    "temperature_C": "sample temperature",
+    "geometry_mm": "dimensions and shape",
+    "surface_condition": "documented condition",
+    "contact_force_N": "if applicable",
+    "operator_id": "anonymous optional",
+    "notes": "failure or caveat"
+  },
+  "validation": [
+    "split train/test by independent lot",
+    "preserve raw records and failures",
+    "no unknowns silently converted to zero",
+    "keep proprietary certificates and specimen IDs private"
+  ]
+}
