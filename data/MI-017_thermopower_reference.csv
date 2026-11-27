@@ -1,0 +1,3 @@
+grade,reference_pair,effective_slope_uV_K,calibration_K_per_mV,temperature_range_K,source
+EN AW-2017,cemented carbide,11.967448539971278,83.56,293-730,https://link.springer.com/article/10.1007/s11740-023-01260-0
+EN AW-7075,cemented carbide,16.39881928501148,60.98,293-730,https://link.springer.com/article/10.1007/s11740-023-01260-0
