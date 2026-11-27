@@ -1,0 +1,200 @@
+grade_a,grade_b,state_a,state_b,baseline_mahalanobis,required_independent_effect_95,number_independent_d1_features
+C1020,C1100,unspecified,unspecified,0.00000,3.28971,11
+S45C,SCM440,unspecified,unspecified,0.50521,3.25068,11
+A1050A,A6063,O/H,O,0.59611,3.23525,11
+S50C相当,SCM440,unspecified,unspecified,0.62699,3.22940,11
+A7075,A7050,T6,unspecified,0.68128,3.21839,11
+S45C,S50C相当,unspecified,unspecified,0.82214,3.18532,11
+A6061,A6063,O,T4,0.90815,3.16187,10
+A7075,A2017,T6,unspecified,0.92103,3.15814,10
+A2024,A7075,T8,T7,1.01361,3.12966,10
+SUS304,SUS316,reference,reference,1.17240,3.07370,10
+A2017,A7050,unspecified,unspecified,1.41869,2.96808,9
+A2024,A2017,T8,unspecified,1.58681,2.88170,9
+A5052,A6061,O/H,T4,1.76251,2.77772,8
+A2024,A7050,T3,unspecified,1.91642,2.67386,8
+SUS430,SUS410,reference,reference,2.05068,2.57233,7
+C2801,C3604低鉛,unspecified,unspecified,2.54925,2.07931,5
+A5052,A5083,O/H,O/H,2.56649,2.05798,5
+A2024,A6061,T8,T4,2.65049,1.94861,4
+A1050A,A6061,O/H,O,3.10843,1.07695,2
+SCM440,NAK55相当,unspecified,unspecified,3.22325,0.65790,1
+S50C相当,NAK55相当,unspecified,unspecified,3.36843,0.00000,0
+A2024,A5052,T8,O/H,3.48447,0.00000,0
+A6061,A2017,T4,unspecified,3.53632,0.00000,0
+A6061,A7075,T4,T7,3.57499,0.00000,0
+S45C,NAK55相当,unspecified,unspecified,3.61025,0.00000,0
+A5052,A2017,O/H,unspecified,3.63102,0.00000,0
+SKD11,NAK55相当,unspecified,unspecified,3.71558,0.00000,0
+A2024,ADC12,T3,unspecified,3.74096,0.00000,0
+A6063,A7075,T4,O,3.77031,0.00000,0
+A5083,ADC12,O/H,unspecified,3.93472,0.00000,0
+SUS430,SUS630,reference,reference,3.95990,0.00000,0
+A2024,A5083,T3,O/H,3.99266,0.00000,0
+A2024,A6063,T8,T4,4.14671,0.00000,0
+A5052,A7075,O/H,T6,4.29170,0.00000,0
+A5083,A6061,O/H,T4,4.32018,0.00000,0
+A5052,A6063,O/H,T4,4.45403,0.00000,0
+A1050A,A7075,O/H,O,4.68726,0.00000,0
+A5083,A2017,O/H,unspecified,4.81262,0.00000,0
+A6061,A7050,T4,unspecified,4.86606,0.00000,0
+A5052,A7050,O/H,unspecified,4.93873,0.00000,0
+A5083,A7075,O/H,T6,5.23155,0.00000,0
+A7075,ADC12,T6,unspecified,5.23199,0.00000,0
+SUS410,SUS630,reference,reference,5.29374,0.00000,0
+A2017,ADC12,unspecified,unspecified,5.35901,0.00000,0
+A7050,ADC12,unspecified,unspecified,5.40951,0.00000,0
+A6063,A2017,T4,unspecified,5.59123,0.00000,0
+A5052,ADC12,O/H,unspecified,5.73814,0.00000,0
+A5083,A7050,O/H,unspecified,5.78587,0.00000,0
+A1050A,A2024,O/H,T8,5.88983,0.00000,0
+A1050A,A5052,O/H,O/H,6.69004,0.00000,0
+A6063,A7050,T4,unspecified,6.70117,0.00000,0
+SCM440,SKD11,unspecified,unspecified,6.90999,0.00000,0
+A5083,A6063,O/H,T4,6.99327,0.00000,0
+S50C相当,SKD11,unspecified,unspecified,7.07649,0.00000,0
+A6061,ADC12,T4,unspecified,7.13915,0.00000,0
+S45C,SKD11,unspecified,unspecified,7.26583,0.00000,0
+A1050A,A2017,O/H,unspecified,7.42316,0.00000,0
+C3604低鉛,C51000,unspecified,reference,8.12181,0.00000,0
+A1050A,A7050,O/H,unspecified,8.37993,0.00000,0
+A1050A,A5083,O/H,O/H,9.23538,0.00000,0
+A6063,ADC12,T4,unspecified,9.85452,0.00000,0
+C2801,C51000,unspecified,reference,9.87128,0.00000,0
+A1050A,ADC12,O/H,unspecified,12.02862,0.00000,0
+SKD11,SUS410,unspecified,reference,12.25306,0.00000,0
+SKD11,SUS630,unspecified,reference,12.28871,0.00000,0
+SKD11,SUS430,unspecified,reference,13.31936,0.00000,0
+NAK55相当,SUS410,unspecified,reference,13.45212,0.00000,0
+Ti Grade 2,Ti Grade 5,reference,reference,13.53856,0.00000,0
+NAK55相当,SUS630,unspecified,reference,14.74537,0.00000,0
+NAK55相当,SUS430,unspecified,reference,14.92745,0.00000,0
+S50C相当,SUS410,unspecified,reference,15.00516,0.00000,0
+S45C,SUS410,unspecified,reference,15.07037,0.00000,0
+SCM440,SUS410,unspecified,reference,15.08687,0.00000,0
+C1020,C2801,unspecified,unspecified,16.16105,0.00000,0
+C1100,C2801,unspecified,unspecified,16.16105,0.00000,0
+S50C相当,SUS430,unspecified,reference,16.72845,0.00000,0
+SCM440,SUS430,unspecified,reference,16.78647,0.00000,0
+S45C,SUS430,unspecified,reference,16.79844,0.00000,0
+SCM440,SUS630,unspecified,reference,17.13553,0.00000,0
+S50C相当,SUS630,unspecified,reference,17.17419,0.00000,0
+S45C,SUS630,unspecified,reference,17.23128,0.00000,0
+C1020,C3604低鉛,unspecified,unspecified,17.36157,0.00000,0
+C1100,C3604低鉛,unspecified,unspecified,17.36157,0.00000,0
+C1020,C51000,unspecified,reference,23.35568,0.00000,0
+C1100,C51000,unspecified,reference,23.35568,0.00000,0
+SUS316,C51000,reference,reference,24.49686,0.00000,0
+SUS304,C51000,reference,reference,24.69016,0.00000,0
+C3604低鉛,SUS304,unspecified,reference,29.81903,0.00000,0
+C3604低鉛,SUS316,unspecified,reference,29.88740,0.00000,0
+C2801,SUS304,unspecified,reference,31.27421,0.00000,0
+C2801,SUS316,unspecified,reference,31.35528,0.00000,0
+C1020,SUS304,unspecified,reference,47.10875,0.00000,0
+C1100,SUS304,unspecified,reference,47.10875,0.00000,0
+C1020,SUS316,unspecified,reference,47.11949,0.00000,0
+C1100,SUS316,unspecified,reference,47.11949,0.00000,0
+SUS304,Ti Grade 2,reference,reference,50.24654,0.00000,0
+A7050,Ti Grade 2,unspecified,reference,50.57342,0.00000,0
+ADC12,Ti Grade 2,unspecified,reference,50.65817,0.00000,0
+A7075,Ti Grade 2,T6,reference,51.18345,0.00000,0
+A2024,Ti Grade 2,T3,reference,51.31650,0.00000,0
+SUS316,Ti Grade 2,reference,reference,51.39023,0.00000,0
+A2017,Ti Grade 2,unspecified,reference,51.91381,0.00000,0
+SUS304,Ti Grade 5,reference,reference,52.74031,0.00000,0
+SUS316,Ti Grade 5,reference,reference,53.79338,0.00000,0
+A5083,Ti Grade 2,O/H,reference,54.38689,0.00000,0
+A5052,Ti Grade 2,O/H,reference,55.08895,0.00000,0
+A6061,Ti Grade 2,T4,reference,55.42687,0.00000,0
+A6063,Ti Grade 2,T4,reference,57.01515,0.00000,0
+ADC12,Ti Grade 5,unspecified,reference,57.01780,0.00000,0
+A7050,Ti Grade 5,unspecified,reference,58.09058,0.00000,0
+A1050A,Ti Grade 2,O/H,reference,58.10232,0.00000,0
+A2024,Ti Grade 5,T3,reference,58.45153,0.00000,0
+A7075,Ti Grade 5,T6,reference,58.63592,0.00000,0
+A2017,Ti Grade 5,unspecified,reference,59.34931,0.00000,0
+A5083,Ti Grade 5,O/H,reference,60.92839,0.00000,0
+C3604低鉛,Ti Grade 2,unspecified,reference,61.73107,0.00000,0
+C2801,Ti Grade 2,unspecified,reference,62.05698,0.00000,0
+A5052,Ti Grade 5,O/H,reference,62.11124,0.00000,0
+A6061,Ti Grade 5,T4,reference,62.77717,0.00000,0
+Ti Grade 2,C51000,reference,reference,63.40384,0.00000,0
+A6063,Ti Grade 5,T4,reference,64.74597,0.00000,0
+A1050A,Ti Grade 5,O/H,reference,66.16627,0.00000,0
+C3604低鉛,Ti Grade 5,unspecified,reference,69.78353,0.00000,0
+Ti Grade 5,C51000,reference,reference,70.08489,0.00000,0
+C2801,Ti Grade 5,unspecified,reference,70.31462,0.00000,0
+C1020,Ti Grade 2,unspecified,reference,74.58863,0.00000,0
+C1100,Ti Grade 2,unspecified,reference,74.58863,0.00000,0
+C1020,Ti Grade 5,unspecified,reference,84.15138,0.00000,0
+C1100,Ti Grade 5,unspecified,reference,84.15138,0.00000,0
+A7050,SUS304,unspecified,reference,97.17824,0.00000,0
+A7050,C2801,unspecified,unspecified,97.24848,0.00000,0
+A7050,C3604低鉛,unspecified,unspecified,97.66506,0.00000,0
+A7075,SUS304,T6,reference,97.82591,0.00000,0
+A7075,C2801,T6,unspecified,97.87893,0.00000,0
+A7075,C3604低鉛,T6,unspecified,98.30194,0.00000,0
+A7050,SUS316,unspecified,reference,98.33127,0.00000,0
+A2024,SUS304,T3,reference,98.34840,0.00000,0
+A2017,C2801,unspecified,unspecified,98.53880,0.00000,0
+A2017,SUS304,unspecified,reference,98.55223,0.00000,0
+ADC12,SUS304,unspecified,reference,98.55333,0.00000,0
+A2024,C2801,T3,unspecified,98.83552,0.00000,0
+A2017,C3604低鉛,unspecified,unspecified,98.95578,0.00000,0
+A7075,SUS316,T6,reference,98.97864,0.00000,0
+A2024,C3604低鉛,T3,unspecified,99.23688,0.00000,0
+A2024,SUS316,T3,reference,99.50297,0.00000,0
+A2017,SUS316,unspecified,reference,99.70581,0.00000,0
+ADC12,SUS316,unspecified,reference,99.71038,0.00000,0
+ADC12,C2801,unspecified,unspecified,100.18845,0.00000,0
+ADC12,C3604低鉛,unspecified,unspecified,100.54081,0.00000,0
+A1050A,C2801,O/H,unspecified,101.46063,0.00000,0
+A6061,C2801,T4,unspecified,101.50686,0.00000,0
+A6063,C2801,T4,unspecified,101.62746,0.00000,0
+A5083,SUS304,O/H,reference,101.92531,0.00000,0
+A6061,SUS304,T4,reference,101.95733,0.00000,0
+A6061,C3604低鉛,T4,unspecified,101.96023,0.00000,0
+A1050A,C3604低鉛,O/H,unspecified,101.99381,0.00000,0
+A5052,SUS304,O/H,reference,102.05052,0.00000,0
+A5052,C2801,O/H,unspecified,102.12847,0.00000,0
+A6063,C3604低鉛,T4,unspecified,102.12976,0.00000,0
+A7050,C51000,unspecified,reference,102.50739,0.00000,0
+A5052,C3604低鉛,O/H,unspecified,102.55779,0.00000,0
+A5083,C2801,O/H,unspecified,102.78018,0.00000,0
+A6063,SUS304,T4,reference,102.91001,0.00000,0
+A5083,SUS316,O/H,reference,103.08117,0.00000,0
+A6061,SUS316,T4,reference,103.10914,0.00000,0
+A7075,C51000,T6,reference,103.15214,0.00000,0
+A5083,C3604低鉛,O/H,unspecified,103.17546,0.00000,0
+A5052,SUS316,O/H,reference,103.20430,0.00000,0
+A1050A,SUS304,O/H,reference,103.42475,0.00000,0
+A2017,C51000,unspecified,reference,103.82518,0.00000,0
+A7050,C1020,unspecified,unspecified,103.83429,0.00000,0
+A7050,C1100,unspecified,unspecified,103.83429,0.00000,0
+A7075,C1020,O,unspecified,103.99745,0.00000,0
+A7075,C1100,O,unspecified,103.99745,0.00000,0
+A2024,C51000,T3,reference,104.00493,0.00000,0
+A6063,SUS316,T4,reference,104.05753,0.00000,0
+A1050A,SUS316,O/H,reference,104.56890,0.00000,0
+A2017,C1020,unspecified,unspecified,105.03386,0.00000,0
+A2017,C1100,unspecified,unspecified,105.03386,0.00000,0
+ADC12,C51000,unspecified,reference,105.07859,0.00000,0
+A2024,C1020,T8,unspecified,105.16699,0.00000,0
+A2024,C1100,T8,unspecified,105.16699,0.00000,0
+A6061,C51000,T4,reference,106.93862,0.00000,0
+A1050A,C1020,O/H,unspecified,106.96167,0.00000,0
+A1050A,C1100,O/H,unspecified,106.96167,0.00000,0
+A1050A,C51000,O/H,reference,107.27279,0.00000,0
+A6063,C51000,T4,reference,107.27517,0.00000,0
+A6063,C1020,O,unspecified,107.32261,0.00000,0
+A6063,C1100,O,unspecified,107.32261,0.00000,0
+ADC12,C1020,unspecified,unspecified,107.39143,0.00000,0
+ADC12,C1100,unspecified,unspecified,107.39143,0.00000,0
+A5052,C51000,O/H,reference,107.43288,0.00000,0
+A6061,C1020,O,unspecified,107.52607,0.00000,0
+A6061,C1100,O,unspecified,107.52607,0.00000,0
+A5083,C51000,O/H,reference,107.89474,0.00000,0
+A5052,C1020,O/H,unspecified,108.56063,0.00000,0
+A5052,C1100,O/H,unspecified,108.56063,0.00000,0
+A5083,C1020,O/H,unspecified,109.55070,0.00000,0
+A5083,C1100,O/H,unspecified,109.55070,0.00000,0
