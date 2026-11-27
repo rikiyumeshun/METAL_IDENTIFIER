@@ -1,0 +1,18 @@
+sample,name,density_g_cm3,chi_volume_SI_ppm,source
+A00001,pure Al,2.7,20.7,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A03560H,Al 356 T6,2.66,18,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A92014H,Al 2014,2.79,18,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A92024,Al 2024,2.77,19.3,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A95083H,Al 5083,2.67,16.8,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A96061H,Al 6061,2.7,19,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A97039H,Al 7039,2.75,16.3,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+A97075H,Al 7075 T6,2.81,15.7,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C10100,oxygen free copper,8.94,-9.37,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C11000,ETP copper,8.92,32.2,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C15000H,AMZIRC copper,8.89,-4.44,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C18200,chrome copper,8.94,-3.6,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C260002,cartridge brass,8.52,-3.48,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C50700,phosphor bronze 1.25,8.95,-5.98,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+C51000,phosphor bronze A,8.95,-5.86,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+R564001,Ti 6Al 4V,4.41,180,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
+S316001,SS 316,7.98,3040,https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=30485
