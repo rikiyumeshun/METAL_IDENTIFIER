@@ -1,0 +1,7 @@
+element,work_function_eV,source,notes
+Al,4.16,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
+Ti,4.33,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
+Cr,4.5,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
+Fe,4.5,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
+Cu,4.65,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
+Ni,5.15,https://pse-info.de/en/scale/work_function,representative elemental value; surface-dependent; not alloy data
