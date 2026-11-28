@@ -1,0 +1,9 @@
+module,component,procurement,assembly_method,status,source
+controller,ABS enclosure with PCB bosses,Takachi TW series/custom,finished holes and screws,candidate,https://www.takachi-el.co.jp/products/TW
+controller,finished panel machining,Takachi custom,outsourced,candidate,https://www.takachi-el.co.jp/custom
+DC coupon,probe support plate,meviy POM or PC,finished holes and screws,candidate,https://jp.meviy.misumi-ec.com/info/ja/fa-resin-service/
+DC coupon,replaceable spring probe,INGUN GKS-100 family,preinstalled socket carrier by supplier,candidate current rating and tip not finalized,https://jp.misumi-ec.com/vona2/detail/221006350469/
+DC coupon,probe wire and socket,MISUMI lead wire receptacle family,preterminated or outsourced assembly,candidate supplier assembly quote needed,https://jp.misumi-ec.com/vona2/mech/M0400000000/M0414000000/
+eddy,planar PCB coil,PCB fab and assembly,finished board screwed into carrier,candidate unvalidated coil design,
+eddy,replaceable polymer nose,meviy or standard sheet supplier,finished one-piece datum and three contact pads,candidate,https://jp.meviy.misumi-ec.com/info/ja/fa-resin-service/
+eddy,preterminated keyed cable,commercial cable or harness supplier,plug connection,candidate exact pinout not fixed,
