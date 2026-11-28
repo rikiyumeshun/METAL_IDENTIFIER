@@ -1,0 +1,4 @@
+architecture,fixed_yen,electronics_yen,mechanical_yen,logistics_yen,assembly_min,calibration_and_test_min,rework_probability,rework_min,final_yield
+A_modules_handwired,0,9000,2000,600,120,45,0.2,40,0.95
+B_modules_connectorized,12000,10000,1800,600,45,20,0.08,25,0.98
+C_outsourced_PCBA,65000,6500,1800,600,20,15,0.04,20,0.99
