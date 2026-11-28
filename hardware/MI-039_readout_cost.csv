@@ -1,0 +1,6 @@
+architecture,incremental_electronics_allowance_JPY,assembly_test_minutes_assumed,at_3000JPY_hour_excluding_shared_and_fixed_JPY,scope
+LDC1612,1100,8,1500,L only; sensor gates required
+LDC1101,1800,10,2300,L and Rp; sensor gates required
+MCU_direct_sync,1400,20,2400,external drive and calibrated sequential or simultaneous sampling
+Analog_IQ,2100,25,3350,drive mixers LPF and slow ADC
+AD5933_low_Z,6000,20,7000,external low impedance AFE
